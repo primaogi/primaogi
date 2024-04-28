@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prima Ogiansyah</h1>
-<h3 align="center">A passionate android dev from Indonesia</h3>
+<h3 align="center">Im just normal person, nothing special, hehe</h3>
 
 <img align="right" alt="spongdev" width="400" src="https://gifdb.com/images/high/spongebob-squarepants-pc-fire-vap1vi52dakvrni9.gif">
 
