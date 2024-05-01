@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prima Ogiansyah</h1>
 <h3 align="center">Im just normal person, nothing special, hehe</h3>
 
-<img align="center" alt="spongdev" width="400" src="https://gifdb.com/images/high/spongebob-squarepants-pc-fire-vap1vi52dakvrni9.gif">
+<img align="right" alt="spongdev" width="300" height="200" src="https://gifdb.com/images/high/spongebob-squarepants-pc-fire-vap1vi52dakvrni9.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=primaogi&label=Profile%20views&color=0e75b6&style=flat" alt="primaogi" /> </p>
 
