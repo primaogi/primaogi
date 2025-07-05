@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/mostly_prima" target="blank"><img src="https://img.shields.io/twitter/follow/mostly_prima?logo=twitter&style=for-the-badge" alt="mostly_prima" /></a> </p>
 
-- 🔭 I’m currently working on [HEIS]
+- 🔭 I’m currently working on [HEIS](HEIS_APP)
 
 - 🌱 I’m currently learning **Web Development, like PHP Native, HTML, CSS, & some Framework**
 
-- 🤝 I’m looking for help with [php native](https://github.com/primaogi/restoranQ)
+- 🤝 I’m looking for help with [React Native]
 
 - 💬 Ask me about **java**
 
